@@ -1,0 +1,28 @@
+
+
+.items:hover{
+    background-color: rgb(108, 105, 106);
+}
+
+.para{
+    margin-top: 200px;
+}
+
+.left-menu{
+    width: 15%;
+    height: 1000px;
+    background-color: rgb(215, 215, 215);
+    float: left;
+}
+
+.body-content{
+    margin-left: 300px;
+}
+
+a:link{
+    text-decoration: none;
+}
+.menu-items:hover{
+    background-color: black;
+    color: white;
+}
